@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arja Venkata Vamsi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align=“right” alt=“coding” width=“400” src=“￼”
+<img align=“right” alt=“coding” width=“400” src=“![image](https://github.com/vamsiarja/vamsiarja/assets/74002853/a5fe0e99-180d-4d75-be38-50684daa0fb4)”
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsiarja&label=Profile%20views&color=0e75b6&style=flat" alt="vamsiarja" /> </p>
 
